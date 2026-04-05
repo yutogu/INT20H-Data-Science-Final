@@ -1,0 +1,13 @@
+# Datasets
+*.csv
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# OS generated files
+.DS_Store

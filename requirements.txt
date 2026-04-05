@@ -1,0 +1,8 @@
+pandas
+numpy
+lightgbm
+matplotlib
+shap
+scikit-learn
+pyarrow
+tqdm
